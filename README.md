@@ -1,8 +1,8 @@
 [epxhsid.dev](https://epxhsid.dev) · [email](mailto:joaqu26@proton.me)
 
-it/cs student studying at National University Philippines, currently self-studying cloud (GCP) and infrastructure. I am currently also studying japanese（日本語）since 2018.
+it/cs student studying at [National University](https://www.nu.edu.ph/nu-moa), currently self-studying cloud (GCP) and infrastructure. I am currently also studying japanese（日本語）since 2018.
 
-currently looking for opportunities to increase my software/site reliability engineering in general.
+currently looking for opportunities to increase my software engineering skill in general.
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/Void_Linux-%23478061.svg?style=flat-square&logo=voidlinux&logoColor=white)

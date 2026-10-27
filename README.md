@@ -1,7 +1,8 @@
 [epxhsid.dev](https://epxhsid.dev) · [email](mailto:joaqu26@proton.me)
 
 it/cs student studying at [National University Philippines](https://www.nu.edu.ph/nu-moa), currently self-studying cloud (GCP) and infrastructure. I have also been learning Japanese since 2018.
-NUでIT/CSを専攻してる、GCPなどのクラウド・インフラを独学中。2018年から日本語を勉強してると思う。
+
+<sub>NUでIT/CSを専攻してる、GCPなどのクラウド・インフラを独学中。2018年から日本語を勉強してると思う。</sub>
 
 currently looking for opportunities to increase my software engineering skill in general.
 

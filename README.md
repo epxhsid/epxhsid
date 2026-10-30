@@ -14,7 +14,7 @@ currently looking for opportunities to increase my software engineering skill in
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 
 ![openSUSE Tumbleweed](https://img.shields.io/badge/openSUSE_Tumbleweed-%2317B880.svg?style=flat-square&logo=opensuse&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-%23478061.svg?style=flat-square&logo=voidlinux&logoColor=white)
+![Void](https://img.shields.io/badge/Void-%23478061.svg?style=flat-square&logo=voidlinux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat-square&logo=vim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=flat-square&logo=tmux&logoColor=white)
 

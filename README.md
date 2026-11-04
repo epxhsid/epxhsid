@@ -1,10 +1,10 @@
 [epxhsid.dev](https://epxhsid.dev) · [email](mailto:joaqu26@proton.me)
 
-IT/CS Student Studying at [National University](https://www.nu.edu.ph/nu-moa) Philippines, currently self-studying backend engineering and cloud infrastructure.
+IT/CS Student Studying at [National University](https://www.nu.edu.ph/nu-moa) Philippines, currently self-studying Linux, Backend Engineering and Cloud Infrastructure.
 
 Outside of tech, I also often play guitar and study a bit of japanese. I like to listen to 高町Walk, and Foreground Eclipse...
 
-currently looking for opportunities to increase my software engineering skill in general, also have a chance to contribute to interesting projects.
+Currently looking for opportunities to increase my software engineering skill in general and also have a chance to contribute to interesting projects.
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

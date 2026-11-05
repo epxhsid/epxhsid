@@ -2,7 +2,7 @@
 
 IT/CS Student Studying at [National University](https://www.nu.edu.ph/nu-moa) Philippines, currently self-studying Linux, Backend Engineering and Cloud Infrastructure.
 
-Outside of tech, I also often play guitar and study a bit of japanese. I like to listen to 高町Walk, and Foreground Eclipse...
+Outside of tech, I also often play osu!standard, guitar and study a bit of japanese. I like to listen to 高町Walk, and Foreground Eclipse...
 
 Currently looking for opportunities to increase my software engineering skill in general and also have a chance to contribute to interesting projects.
 

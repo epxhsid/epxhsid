@@ -1,6 +1,6 @@
 [epxhsid.dev](https://epxhsid.dev) · [email](mailto:joaqu26@proton.me)
 
-IT/CS student at [National University](https://www.nu.edu.ph/nu-moa) Philippines, currently self-studying Linux, Backend Engineering and Cloud Infrastructure.
+IT/CS student at [National University](https://www.nu.edu.ph/nu-moa) Philippines, currently self-studying Backend Engineering, Linux, Networking, and Cloud Infra.
 
 Outside of tech, I also often play osu!standard, guitar and study a bit of japanese. I like to listen to 高町Walk, and Foreground Eclipse...
 

@@ -12,3 +12,4 @@ Actively looking for opportunities to increase my software engineering skill in 
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat-square&logo=vim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=flat-square&logo=tmux&logoColor=white)
 
+![Most used languages](github-metrics.svg)
